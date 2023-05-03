@@ -1,2 +1,2 @@
 # Java-Curso
-Todos os exercícios estão em curso java/ex/src/fundamentos
+All exercises are in path java/ex/src/fundamentos
