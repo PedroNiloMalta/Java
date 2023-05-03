@@ -1,0 +1,13 @@
+package fundamentos;
+
+public class Temperatura {
+	public static void main(String[] args) {
+		double tempf = 55;
+		final double trintaedois = 32;
+		final double divisao = (5/9);
+		double tempc = (tempf - trintaedois) * divisao;
+		
+		
+		System.out.println("Temperatura = "+tempc +" graus celsius");
+	}
+}
